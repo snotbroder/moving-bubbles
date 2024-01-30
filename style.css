@@ -11,3 +11,8 @@
   border-radius: 100%;
   transition: all 2s;
 }
+
+h1 {
+  color: magenta;
+  text-align: center;
+}
