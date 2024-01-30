@@ -9,4 +9,5 @@
   height: 100px;
   background-color: hotpink;
   border-radius: 100%;
+  transition: all 2s;
 }
